@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>todo list</title>
+    <link rel="shortcut icon" href="/icons/icon.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+
+
+
+    <div class="container my-3">
+        <center>
+            <h1>todo list</h1>
+        </center>
+        <div class="card newNotePopup">
+            <div class="card-body">
+                <h5 class="card-title"><center>Add Task</center></h5>
+                <p id="addTitle" class="form-control" contenteditable></p>
+
+                <div class="mb-3">
+                    <p id="addTxt" class="form-control" contenteditable></p>
+                </div>
+                <div class="container addnoteButtonsLine">
+                    <button id="addBtn" class="btn btn-primary">Add</button>
+                    <button id="cancel" class="btn btn-primary"></button>
+                    <button id="changeColor" class="btn btn-primary"></button>
+                </div>
+            </div>
+        </div>
+
+        <span class="plusButtonLine">
+            <h1 style="display: inline-block;">Your Productivity Begins here!</h1>
+            <button id="plusButton" class="btn btn-info"></button>
+        </span>
+
+        <hr>
+
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <button class="btn btn-warning navbar-brand" onclick="showNotes(-1)">All</button>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                    <div class="btn-group">
+                        <button class="btn" value="12">DEC</button>
+                        <button class="btn" value="11">NOV</button>
+                        <button class="btn" value="10">OCT</button>
+                        <button class="btn" value="9">SEP</button>
+                        <button class="btn" value="8">AUG</button>
+                        <button class="btn" value="7">JUL</button>
+                        <button class="btn" value="6">JUN</button>
+                        <button class="btn" value="5">MAY</button>
+                        <button class="btn" value="4">APR</button>
+                        <button class="btn" value="3">MAR</button>
+                        <button class="btn" value="2">FEB</button>
+                        <button class="btn" value="1">JAN</button>
+                    </div>
+
+
+
+                    <form class="d-flex">
+                        <input id="searchTxt" class="form-control me-2" type="search" placeholder="Search Task"
+                            aria-label="Search">
+                        <!-- <button class="btn btn-outline-success" type="submit">Search</button> -->
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <div id="notesContainer" class="row container-fluid"></div>
+    </div>
+
+
+
+
+
+
+
+    <!-- Footer -->
+    <footer class="text-center text-lg-start bg-light text-muted">
+
+        <!-- Copyright -->
+        <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+            © 2021 Copyright:
+            <a class="text-reset fw-bold">Rohit Dubey</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="/Js/app.js"></script>
+</body>
+
+</html>

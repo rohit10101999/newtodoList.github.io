@@ -1,0 +1,887 @@
+[class~=noteCard] card-body {
+    display: flex;
+}
+
+[class~=newNotePopup] {
+    position: fixed;
+}
+
+#cancel {
+    display: inline-block;
+}
+
+#cancel {
+    border-left-width: .010416667in;
+}
+
+[class~=noteCard],
+[class~=noteCard] card-body {
+    flex-wrap: wrap;
+}
+
+[class~=newNotePopup] {
+    right: 35%;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    display: block;
+}
+
+[class~=newNotePopup] {
+    width: 30%;
+}
+
+[class~=newNotePopup] {
+    margin-top: 10%;
+}
+
+#cancel {
+    border-bottom-width: .010416667in;
+}
+
+[class~=noteCard] card-body,
+[class~=noteCard] {
+    align-content: flex-start;
+}
+
+[class~=newNotePopup] {
+    display: none;
+}
+
+center h1 {
+    font-size: 7em;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-left-width: .125pc;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-bottom-width: .125pc;
+}
+
+[class~=newNotePopup],
+[class~=newNotePopup] {
+    transition: 1s;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-right-width: .125pc;
+}
+
+#cancel {
+    border-right-width: .010416667in;
+}
+
+#cancel {
+    border-top-width: .010416667in;
+}
+
+[class~=noteCard],
+[class~=noteCard] card-body {
+    align-items: flex-start;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-top-width: .125pc;
+}
+
+#cancel,
+[class~=newNotePopup] [class~=card-body] {
+    border-left-style: solid;
+}
+
+[class~=noteCard] card-body {
+    justify-content: center;
+}
+
+[class~=newNotePopup] [class~=card-body],
+#cancel {
+    border-bottom-style: solid;
+}
+
+[class~=newNotePopup] {
+    z-index: 9;
+}
+
+[class~=newNotePopup] {
+    box-shadow: .375in 215px 1.5625in 2.708333333in rgba(3, 3, 3, .301);
+}
+
+[class~=newNotePopup] [class~=card-body],
+[class~=noteCard],
+[class~=newNotePopup] {
+    border-radius: .3125in;
+}
+
+[class~=newNotePopup] [class~=card-body],
+#cancel {
+    border-right-style: solid;
+}
+
+#cancel,
+[class~=newNotePopup] [class~=card-body] {
+    border-top-style: solid;
+}
+
+#cancel {
+    border-left-color: #5e5e5e;
+}
+
+#cancel {
+    border-bottom-color: #5e5e5e;
+}
+
+[class~=noteCard] {
+    display: flex;
+}
+
+#cancel {
+    border-right-color: #5e5e5e;
+}
+
+#cancel {
+    border-top-color: #5e5e5e;
+}
+
+#cancel {
+    border-image: none;
+}
+
+#cancel {
+    box-sizing: border-box;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-left-color: white;
+}
+
+#cancel {
+    box-shadow: 0in 18.75pt 31.5pt .083333333in rgba(0, 0, 0, .25);
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-bottom-color: white;
+}
+
+#cancel {
+    border-radius: 30%;
+}
+
+[class~=noteCard] {
+    align-self: flex-start;
+}
+
+#cancel {
+    background: url("/icons/close.png");
+}
+
+[class~=noteCard] {
+    width: 25em;
+}
+
+#cancel {
+    background-size: cover;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-right-color: white;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-top-color: white;
+}
+
+[class~=newNotePopup] [class~=card-body] {
+    border-image: none;
+}
+
+#cancel {
+    width: 2em;
+}
+
+#cancel {
+    height: 2em;
+}
+
+#cancel {
+    position: absolute;
+}
+
+#cancel {
+    right: 0;
+}
+
+#cancel {
+    margin-left: 45pt;
+}
+
+#cancel {
+    margin-bottom: 0;
+}
+
+#cancel {
+    margin-right: 45pt;
+}
+
+#cancel {
+    margin-top: 0;
+}
+
+[class~=noteCard] {
+    border-left-width: .75pt;
+}
+
+#addTxt {
+    display: block;
+}
+
+[class~=noteCard] [class~=card-text] {
+    width: 20em;
+}
+
+#addTxt {
+    width: 100%;
+}
+
+#addTxt {
+    min-height: 120px;
+}
+
+#addTxt {
+    line-height: .208333333in;
+}
+
+[class~=noteCard] [class~=card-text] {
+    resize: vertical;
+}
+
+#notesContainer {
+    display: flex;
+}
+
+#notesContainer {
+    margin-left: auto;
+}
+
+#notesContainer {
+    margin-bottom: auto;
+}
+
+[class~=noteCard] {
+    border-bottom-width: .75pt;
+}
+
+[class~=noteCard] {
+    border-right-width: .75pt;
+}
+
+[class~=noteCard] {
+    border-top-width: .75pt;
+}
+
+#notesContainer {
+    margin-right: auto;
+}
+
+[class~=noteCard] {
+    border-left-style: solid;
+}
+
+center h1 {
+    color: #256fcf;
+}
+
+#notesContainer {
+    margin-top: auto;
+}
+
+#notesContainer {
+    background-color: #d5dfe2;
+}
+
+[class~=noteCard] {
+    border-bottom-style: solid;
+}
+
+#notesContainer {
+    height: fit-content;
+}
+
+[class~=noteCard] {
+    border-right-style: solid;
+}
+
+#notesContainer {
+    height: 100em;
+}
+
+[class~=noteCard] {
+    border-top-style: solid;
+}
+
+#notesContainer {
+    flex-direction: row;
+}
+
+[class~=noteCard] {
+    border-left-color: rgba(255, 255, 255, .349);
+}
+
+#notesContainer {
+    flex-wrap: wrap;
+}
+
+[class~=noteCard] {
+    border-bottom-color: rgba(255, 255, 255, .349);
+}
+
+#notesContainer {
+    align-items: center;
+}
+
+#notesContainer {
+    align-content: flex-start;
+}
+
+[class~=noteCard] {
+    border-right-color: rgba(255, 255, 255, .349);
+}
+
+center h1 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+[class~=noteCard] {
+    border-top-color: rgba(255, 255, 255, .349);
+}
+
+[class~=noteCard] {
+    border-image: none;
+}
+
+[class~=noteCard] {
+    box-shadow: .09375in .520833333in .541666667in -1.5pt rgba(0, 0, 0, .41);
+}
+
+@media (max-width: 1423px) {
+    [class~=noteCard] {
+        width: 30em;
+    }
+
+    [class~=newNotePopup] {
+        position: fixed;
+    }
+
+    [class~=newNotePopup] {
+        right: 30%;
+    }
+
+    [class~=newNotePopup] {
+        width: 40%;
+    }
+
+    .noteCard .card-title,
+    [class~=noteCard] [class~=card-text] {
+        width: 26em;
+    }
+
+    #notesContainer {
+        height: 200em;
+    }
+}
+
+@media (max-width: 1204px) {
+
+    .noteCard .card-text,
+    [class~=noteCard] [class~=card-title] {
+        width: 47em;
+    }
+
+    [class~=noteCard] {
+        width: 50em;
+    }
+
+    .newNotePopup {
+        position: fixed;
+    }
+
+    [class~=noteCard] [class~=card-title],
+    .noteCard .card-text {
+        resize: vertical;
+    }
+
+    .newNotePopup {
+        right: 25%;
+    }
+
+    #notesContainer {
+        height: 400em;
+    }
+
+    .newNotePopup {
+        width: 50%;
+    }
+}
+
+@media (max-width: 988px) {
+    [class~=noteCard] {
+        width: 40em;
+    }
+
+    [class~=noteCard] [class~=card-text],
+    [class~=noteCard] [class~=card-title] {
+        width: 37em;
+    }
+
+    [class~=noteCard] [class~=card-text],
+    [class~=noteCard] [class~=card-title] {
+        resize: vertical;
+    }
+}
+
+@media (max-width: 768px) {
+
+    [class~=noteCard] [class~=card-text],
+    [class~=noteCard] [class~=card-title] {
+        width: 26em;
+    }
+
+    [class~=noteCard] {
+        width: 29em;
+    }
+
+    [class~=noteCard] [class~=card-title],
+    [class~=noteCard] [class~=card-text] {
+        resize: vertical;
+    }
+}
+
+[class~=deleteNoteCard]:hover,
+#cancel:hover,
+#changeColor:hover {
+    background-color: none;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-left-width: .0625pc;
+}
+
+[class~=deleteNoteCard] {
+    background: url("/icons/delete.png");
+}
+
+[class~=deleteNoteCard] {
+    background-size: cover;
+}
+
+#changeColor:hover,
+#cancel:hover {
+    box-shadow: inset 0pc .041666667in 3.5pc 12.75pt rgba(255, 255, 255, .301);
+}
+
+#changeColor {
+    display: inline-block;
+}
+
+#changeColor {
+    background: url("/icons/change-icon-color-11.jpg");
+}
+
+#plusButton:hover,
+[class~=deleteNoteCard],
+#changeColor {
+    border-left-width: medium;
+}
+
+[class~=deleteNoteCard],
+#changeColor,
+#plusButton:hover {
+    border-bottom-width: medium;
+}
+
+#changeColor {
+    background-size: cover;
+}
+
+#plusButton:hover,
+[class~=deleteNoteCard],
+#changeColor {
+    border-right-width: medium;
+}
+
+[class~=deleteNoteCard],
+#changeColor,
+#plusButton:hover {
+    border-top-width: medium;
+}
+
+#changeColor {
+    border-radius: 30%;
+}
+
+#plusButton:hover {
+    box-shadow: none;
+}
+
+#changeColor,
+#plusButton:hover,
+[class~=deleteNoteCard] {
+    border-left-style: none;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-bottom-width: 1px;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-right-width: .0625pc;
+}
+
+#changeColor,
+[class~=deleteNoteCard],
+#plusButton:hover {
+    border-bottom-style: none;
+}
+
+#changeColor,
+[class~=deleteNoteCard],
+#plusButton:hover {
+    border-right-style: none;
+}
+
+#changeColor,
+#plusButton:hover,
+[class~=deleteNoteCard] {
+    border-top-style: none;
+}
+
+#plusButton:hover,
+#changeColor,
+[class~=deleteNoteCard] {
+    border-left-color: currentColor;
+}
+
+#plusButton:hover,
+#changeColor {
+    border-bottom-color: currentColor;
+}
+
+#plusButton:hover,
+[class~=deleteNoteCard],
+#changeColor {
+    border-right-color: currentColor;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-top-width: .0625pc;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-left-style: solid;
+}
+
+#plusButton:hover,
+#changeColor {
+    border-top-color: currentColor;
+}
+
+#changeColor,
+#plusButton:hover {
+    border-image: none;
+}
+
+[class~=deleteNoteCard],
+#changeColor {
+    width: 2em;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-bottom-style: solid;
+}
+
+[class~=deleteNoteCard],
+#plusButton {
+    border-bottom-color: currentColor;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    height: 2em;
+}
+
+#plusButton:hover {
+    margin-left: 0;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    position: absolute;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    right: 0;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    margin-right: 20px;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-right-style: solid;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-top-style: solid;
+}
+
+#plusButton,
+[class~=deleteNoteCard] {
+    border-top-color: currentColor;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    box-sizing: border-box;
+}
+
+#changeColor,
+[class~=deleteNoteCard] {
+    box-shadow: 0pc 18.75pt .4375in 8px rgba(0, 0, 0, .25);
+}
+
+#plusButton:hover {
+    margin-bottom: 0;
+}
+
+[class~=deleteNoteCard] {
+    border-image: none;
+}
+
+#plusButton {
+    margin-left: 22.5pt;
+}
+
+#plusButton {
+    margin-bottom: 22.5pt;
+}
+
+#plusButton {
+    margin-right: 22.5pt;
+}
+
+#plusButton {
+    margin-top: 22.5pt;
+}
+
+#plusButton:hover {
+    margin-right: 1.25pc;
+}
+
+#plusButton {
+    padding-top: 0;
+}
+
+#plusButton {
+    border-radius: 30%;
+}
+
+#plusButton:hover {
+    margin-top: 3.75pt;
+}
+
+#plusButton {
+    border-left-width: medium;
+}
+
+#plusButton {
+    border-bottom-width: medium;
+}
+
+#plusButton {
+    border-right-width: medium;
+}
+
+#plusButton,
+#plusButton:hover {
+    background: url("/icons/newNote.png");
+}
+
+#plusButton:hover,
+#plusButton {
+    background-size: cover;
+}
+
+#plusButton {
+    border-top-width: medium;
+}
+
+#plusButton:hover {
+    width: 5em;
+}
+
+[class~=deleteNoteCard] {
+    margin-right: 4.375pc;
+}
+
+#plusButton {
+    border-left-style: none;
+}
+
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    border-left-color: #999;
+}
+
+[class~=deleteNoteCard]:hover {
+    box-shadow: inset 0pc .041666667in 3.5pc 12.75pt rgba(255, 255, 255, .301);
+}
+
+#plusButton {
+    border-bottom-style: none;
+}
+
+#plusButton {
+    border-right-style: none;
+}
+
+#plusButton {
+    border-top-style: none;
+}
+
+#plusButton:hover {
+    height: 5em;
+}
+
+#plusButton {
+    border-left-color: currentColor;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-bottom-color: #999;
+}
+
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    border-right-color: #999;
+}
+
+#plusButton {
+    border-right-color: currentColor;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    border-top-color: #999;
+}
+
+#plusButton,
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    border-image: none;
+}
+
+#plusButton {
+    width: 4em;
+}
+
+[class~=plusButtonLine] {
+    display: flex;
+}
+
+#plusButton {
+    height: 4em;
+}
+
+[class~=btn-group] button:hover {
+    background-color: #fdfdfd;
+}
+
+#plusButton {
+    transition: .2s;
+}
+
+[class~=btn-group] button {
+    background-color: #10489c;
+}
+
+#addBtn {
+    display: inline-block;
+}
+
+[class~=btn-group] button {
+    color: white;
+}
+
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    margin-left: .208333333in;
+}
+
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    margin-bottom: 0;
+}
+
+[class~=plusButtonLine],
+.navbar-collapse {
+    justify-content: space-between;
+}
+
+[class~=btn-group] button,
+[class~=btn-group] button:hover {
+    margin-right: .208333333in;
+}
+
+[class~=btn-group] button:hover,
+[class~=btn-group] button {
+    margin-top: 0;
+}
+
+[class~=plusButtonLine] {
+    align-items: center;
+}
+
+[class~=noteCard] [class~=card-title],
+[class~=plusButtonLine] h1 {
+    color: rgba(0, 0, 0, .603);
+}
+
+[class~=plusButtonLine] {
+    height: 5pc;
+}
+
+[class~=noteCard] [class~=card-body] {
+    margin-bottom: 22.5pt;
+}
+
+[class~=appear] {
+    display: block;
+}
+
+.navbar-collapse {
+    display: flex;
+}
+
+[class~=form-select] {
+    width: fit-content;
+}
+
+[class~=addNotebuttonsLine] {
+    display: block;
+}
+
+[class~=addNotebuttonsLine] {
+    height: 22.5pt;
+}
