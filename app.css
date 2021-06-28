@@ -173,7 +173,7 @@ center h1 {
 }
 
 #cancel {
-    background: url("/icons/close.png");
+    background: url("close.png");
 }
 
 [class~=noteCard] {
@@ -469,7 +469,7 @@ center h1 {
 }
 
 [class~=deleteNoteCard] {
-    background: url("/icons/delete.png");
+    background: url("delete.png");
 }
 
 [class~=deleteNoteCard] {
@@ -486,7 +486,7 @@ center h1 {
 }
 
 #changeColor {
-    background: url("/icons/change-icon-color-11.jpg");
+    background: url("change-icon-color-11.jpg");
 }
 
 #plusButton:hover,
@@ -714,7 +714,7 @@ center h1 {
 
 #plusButton,
 #plusButton:hover {
-    background: url("/icons/newNote.png");
+    background: url("newNote.png");
 }
 
 #plusButton:hover,
